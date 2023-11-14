@@ -1,0 +1,3 @@
+[submodule "vivra-benchmarks"]
+	path = vivra-benchmarks
+	url = https://github.com/Heaoxiang1012/vivra-benchmarks.git
